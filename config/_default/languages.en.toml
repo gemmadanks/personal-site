@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Gemma Danks"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "We are all starstuff"
+#logo = "planet-dna-logo.png"
+
+[params.author]
+    headline = "Astronomy | Biology | Coding"
+    bio = "Data Processing Software Engineer @ SKAO"
+    name = "Gemma Danks"
+    image = "gemma-danks-insta.jpg"
+    links = [
+        { github = "https://github.com/gemmadanks" },
+        { gitlab = "https://gitlab.com/gemmadanks" },
+        { instagram = "https://instagram.com/gbdanks" },
+        { linkedin = "https://linkedin.com/in/gemmadanks" },
+        { x-twitter = "https://twitter.com/gemmadanks" },
+        { orcid = "https://orcid.org/0000-0001-7004-0065" }
+    ]
