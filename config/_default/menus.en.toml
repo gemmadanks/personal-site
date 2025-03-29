@@ -2,12 +2,12 @@
 none = "none"
 
 [[main]]
-name = "technosignatures"
-url = "https://open-research.gemmadanks.com/"
+name = "About"
+url = "/about/"
 
 [[main]]
-name = "palebluemarbles"
-url = "https://palebluemarbles.com"
+name = "Projects"
+url = "/projects/"
 
 [[footer]]
 none = "none"

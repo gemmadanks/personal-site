@@ -13,9 +13,9 @@ description = "We are all starstuff"
 #logo = "planet-dna-logo.png"
 
 [params.author]
-    headline = "Astronomy | Biology | Coding"
+    headline = "Making sense of star stuff"
     bio = "Data Processing Software Engineer @ SKAO"
-    name = "Gemma Danks"
+    name = "Gemma Danks, PhD"
     image = "gemma-danks-insta.jpg"
     links = [
         { github = "https://github.com/gemmadanks" },

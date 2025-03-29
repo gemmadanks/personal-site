@@ -1,7 +1,10 @@
 ---
 title: "Gemma Danks"
-
-description: "We are all star stuff."
-
+description: "Making sense of star stuff."
 ---
-Welcome to my personal website!
+
+Astronomy | Biology | Coding
+
+{{< button href="/about/" target="_self" >}}
+Learn More
+{{< /button >}}
