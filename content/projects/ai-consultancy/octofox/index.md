@@ -10,7 +10,7 @@ showReadingTime: false
 externalUrl: "https://octofox.ai"
 weight: 4
 badge: external
-_build:
+build:
   render: "false"
   list: "local"
 ---

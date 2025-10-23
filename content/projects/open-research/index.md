@@ -5,11 +5,11 @@ showDate: false
 showReadingTime: false
 showSummary: true
 externalUrl: "https://open-research.gemmadanks.com"
-weight: 2
+weight: 4
 tags:
 - external
 summary: "My open research lab book."
-_build:
+build:
   render: "false"
   list: "local"
 ---

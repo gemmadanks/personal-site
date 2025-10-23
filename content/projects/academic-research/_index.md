@@ -1,7 +1,7 @@
 ---
 title: "Academic Research in Computational Biology"
 description: "Learn about some of my research projects."
-weight: 4
+weight: 2
 showSummary: true
 summary: "My earlier academic research in computational biology."
 cascade:

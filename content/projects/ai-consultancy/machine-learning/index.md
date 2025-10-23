@@ -10,7 +10,7 @@ showReadingTime: false
 externalUrl: "https://medium.com/@gemmadanks/how-machine-learning-can-help-you-achieve-your-goals-9ecc2b79eda8"
 weight: 4
 badge: external
-_build:
+build:
   render: "false"
   list: "local"
 ---
