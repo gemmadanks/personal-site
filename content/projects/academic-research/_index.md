@@ -1,17 +1,19 @@
 ---
-title: "Academic Research in Computational Biology"
+title: "Academic Research"
 description: "Learn about some of my research projects."
 weight: 2
 showSummary: true
-summary: "My earlier academic research in computational biology."
+summary: "Protein folding and marine developmental genomics."
 cascade:
   showReadingTime: false
   heroStyle: thumbAndBackground
 showDate: false
 ---
 
-In my academic research, I explored some of the fundamental properties of life on Earth -- focussing on its genetic blueprint -- which involved modelling, processing and analysing large genomic data sets.
+I worked as a researcher in academia for over 12 years. My research took me into diverse fields of study including marine mammal biology, computational biology, protein folding, artificial life, complex systems analysis, plant biology, genomics, marine molecular developmental biology and RNA biology.
 
-You can read more about my PhD research on protein folding and my postdoctoral research on developmental genomics at the links below.
+You can read more about my PhD research in the fields of [complex systems and artificial life](/projects/academic-research/protein-folding/) and my postdoctoral research on [marine developmental genomics](/projects/academic-research/oikopleura/) at the links below.
 
-I have a [separate site](https://open-research.gemmadanks.com) I use as an open lab book for my current independent research project on technosignatures, which focuses on the search for life beyond Earth.
+My list of academic publications is [here](/publications).
+
+I have a [separate site](https://open-research.gemmadanks.com) I use as an open lab book on my independent research project on [technosignatures](https://open-research.gemmadanks.com/planning/my-next-research-topic-technosignatures/), which includes notes on papers I am reading, experiments I'm running and the [software development and project management processes](https://open-research.gemmadanks.com/categories/#planning) I am following.

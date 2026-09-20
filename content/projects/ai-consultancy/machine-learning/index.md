@@ -1,7 +1,7 @@
 ---
 title: "How Machine Learning can Help you Achieve your Goals"
 description: "Article I wrote on Medium about machine learning"
-summary: "Read an article I wrote on machine learning (on Medium)."
+summary: "An article I wrote on machine learning (on Medium)."
 showSummary: true
 tags:
 - external

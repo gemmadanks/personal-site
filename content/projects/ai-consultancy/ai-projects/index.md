@@ -1,5 +1,5 @@
 ---
-title: "AI Projects"
+title: "Industry Projects"
 description: "Harnessing the power of big data and AI"
 summary: "Summary of key projects I've worked on."
 showSummary: true
@@ -8,7 +8,7 @@ weight: 2
 showTableOfContents: true
 ---
 
-As a senior consultant in machine learning, I specialised in big data processing, deep learning and planning machine learning projects and have expertise in productivising data pipelines and machine learning solutions on several major cloud platforms including Google Cloud and Microsoft Azure Databricks.
+I specialised in big data processing, deep learning and planning machine learning projects and have expertise in productivising data pipelines and machine learning solutions on several major cloud platforms including Google Cloud and Microsoft Azure Databricks.
 
 Below are some of the key projects I've worked on. I also used machine learning in my academic research, which you can read about [here](/projects/research).
 

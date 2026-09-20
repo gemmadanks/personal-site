@@ -17,7 +17,7 @@ weight: 4
 
 G.B. Danks, M. Raasholm, C. Campsteijn, A.M. Long, J.R. Manak, B. Lenhard, and E.M. Thompson. Trans-splicing and operons in metazoans: Translational control in maternally regulated development and recovery from growth arrest. Molecular Biology and Evolution, Volume 32, Issue 3, March 2015, Pages 585–599, https://doi.org/10.1093/molbev/msu336
 
-G. Danks, C. Campsteijn, M. Parida, S. Butcher, H. Doddapaneni, B. Fu, R. Petrin, R. Metpally, B. Lenhard, P. Wincker, D. Chourrout, E.M. Thompson, and J.R. Manak. OikoBase: A genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica. Nucleic Acids Research, Volume 41, Issue D1, 1 January 2013, Pages D845–D853, https://doi.org/10.1093/nar/gks1159
+G. Danks, C. Campsteijn, M. Parida, S. Butcher, H. Doddapaneni, B. Fu, R. Petrin, R. Metpally, B. Lenhard, P. Wincker, D. Chourrout, E.M. Thompson, and J.R. Manak. OikoBase: A genomics and developmental transcriptomics resource for the urochordate *Oikopleura dioica*. Nucleic Acids Research, Volume 41, Issue D1, 1 January 2013, Pages D845–D853, https://doi.org/10.1093/nar/gks1159
 
 J. Hosp, Y. Sagane, G. Danks, and E.M. Thompson. The evolving proteome of a complex extracellular matrix, the Oikopleura house. PLoS ONE, 7(7), 2012. https://doi.org/10.1371/journal.pone.0040172
 
