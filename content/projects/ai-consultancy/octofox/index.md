@@ -1,7 +1,7 @@
 ---
 title: "Octofox AI"
 description: "AI consulting"
-summary: "Company website."
+summary: "My company website."
 tags:
 - external
 showSummary: true

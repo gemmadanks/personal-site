@@ -1,7 +1,7 @@
 ---
-title: "Pale Blue Marbles"
+title: "Outreach"
 description: "Science communication and outreach at Pale Blue Marbles"
-summary: "Astrobiology – to inspire the next generation of explorers."
+summary: "Articles and activity packs on astrobiology for children."
 tags:
 - external
 showDate: false

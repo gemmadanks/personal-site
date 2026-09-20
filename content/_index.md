@@ -3,7 +3,7 @@ title: "Gemma Danks"
 description: "Making sense of star stuff."
 ---
 
-Astronomy | Biology | Coding
+Radio Astronomy | Developmental Genomics | Software Engineering
 
 {{< button href="/about/" target="_self" >}}
 Learn More
